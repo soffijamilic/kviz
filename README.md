@@ -1,7 +1,7 @@
 ﻿# Kviz
  
 ## Instaliranje virtualnog okruzenja i flask biblioteke
-Kako bi pokrenuli backend deo potrebno je instalirati flask biblioteku u virtualnom okruženju pokretanjem sledećih komandi u komandnoj liniji iz foldera /kviz:<br>
+Kako bi pokrenuli backend deo potrebno je instalirati flask biblioteku u virtualnom okruženju pokretanjem sledećih komandi u komandnoj liniji iz foldera /backend:<br>
 ```
 pip install virtualenv
 python -m virtualenv env
