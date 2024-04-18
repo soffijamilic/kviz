@@ -34,6 +34,7 @@
   <div class="navbar">
 	<button on:click="{() => navigateTo('Home')}">Home</button>
 	<button on:click="{() => navigateTo('register')}">Register</button>
+	<button on:click="{() => navigateTo('login')}">Login</button>
   </div>
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5">
