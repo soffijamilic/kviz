@@ -9,3 +9,11 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 .\env\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Instaliranje npm
+Iz foldera frontend pokrenuti komandu:
+
+```
+npm install
+npm run dev
+```
