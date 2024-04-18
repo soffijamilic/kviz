@@ -13,11 +13,10 @@
 	  align-items: center;
 	  padding: 1rem;
 	  background-color: #333;
-	  color: #fff;
+;
 	}
   
-	.navbar button {
-	  color: #fff;
+	.navbar button {;
 	  text-decoration: none;
 	  margin: 0 1rem;
 	  padding: 0.5rem;
