@@ -1,12 +1,12 @@
 ﻿# Kviz
  
 ## Instaliranje virtualnog okruzenja i flask biblioteke
-Kako bi pokrenuli backend deo potrebno je instalirati flask biblioteku u virtualnom okruženju pokretanjem sledećih komandi u komandnoj liniji iz foldera /backend:<br>
+Kako bi instalirali flask biblioteku u virtualnom okruženju potrebno je pokrenuti sledeću komandu u PowerShell-u iz root foldera:<br>
 ```
 pip install virtualenv
 python -m virtualenv env
 Set-ExecutionPolicy Unrestricted -Scope Process
-.\env\Scripts\activate
+.env\Scripts\activate
 pip install -r requirements.txt
 ```
 
